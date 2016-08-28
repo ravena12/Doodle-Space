@@ -1,0 +1,39 @@
+* { 
+	margin: 0 auto;
+	width: auto;	
+ }
+ body {
+    background-image: url("space.jpg");
+    width: 1020px;
+ }
+ #colors {
+ 	width: 368px;
+ 	margin: auto;
+ 	margin-left:35%;
+ 	margin-bottom: 10px;
+ 	border-radius: 10px;
+ }
+
+ #clear {
+ vertical-align: top;
+ }
+ #defaultCanvas0 {
+ 	margin: auto;
+ 	margin-left: 15%;
+ 	border: 1px solid purple;
+ 	border-radius: 20px;
+	background-repeat: no-repeat;
+	border-radius: 20px;
+ 	box-shadow: purple 0 0 20px;
+ }
+.button {
+	border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 9px 18px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
